@@ -1,0 +1,248 @@
+(node:9537) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:9537) Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+(node:9537) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+(node:9537) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+(node:9537) Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+(node:9537) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
+(node:9537) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+Unhandled rejection TypeError: Cannot read property 'source' of undefined
+    at addIsDraft (/root/code/hexo-blog-admin/node_modules/hexo-admin/api.js:14:25)
+    at /root/code/hexo-blog-admin/node_modules/hexo-admin/api.js:289:18
+    at tryCatcher (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:729:18)
+    at _drainQueueStep (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:458:21)
+Unhandled rejection WarehouseError: ID `source/_drafts/jenkins-docker实现自动化部署.md` has been used
+    at new WarehouseError (/root/code/hexo-blog-admin/node_modules/warehouse/lib/error.js:14:11)
+    at _Model._insertOne (/root/code/hexo-blog-admin/node_modules/warehouse/lib/model.js:153:29)
+    at /root/code/hexo-blog-admin/node_modules/warehouse/lib/model.js:179:63
+    at tryCatcher (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/util.js:16:23)
+    at /root/code/hexo-blog-admin/node_modules/bluebird/js/release/using.js:185:26
+    at tryCatcher (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:547:31)
+    at Promise._settlePromise (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:604:18)
+    at Promise._settlePromise0 (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:729:18)
+    at Promise._fulfill (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:673:18)
+    at PromiseArray._resolve (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise_array.js:127:19)
+    at PromiseArray._promiseFulfilled (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise_array.js:145:14)
+    at Promise._settlePromise (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:609:26)
+    at Promise._settlePromise0 (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:649:10)
+    at Promise._settlePromises (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:729:18)
+    at _drainQueueStep (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/async.js:93:12)
+    at _drainQueue (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/async.js:86:9)
+    at Async._drainQueues (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/async.js:102:5)
+    at Immediate.Async.drainQueues [as _onImmediate] (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/async.js:15:14)
+    at processImmediate (internal/timers.js:458:21)
+(node:64147) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:64147) Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+(node:64147) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+(node:64147) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+(node:64147) Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+(node:64147) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
+(node:64147) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated
+res null {
+  stdout: 'INFO  Start processing\n' +
+    'INFO  Files loaded in 762 ms\n' +
+    'INFO  Generated: content.json\n' +
+    'INFO  Generated: index.html\n' +
+    'INFO  Generated: main.0cf68a.css\n' +
+    'INFO  Generated: slider.e37972.js\n' +
+    'INFO  Generated: main.0cf68a.js\n' +
+    'INFO  Generated: download/canvasDemo.html\n' +
+    'INFO  Generated: archives/index.html\n' +
+    'INFO  Generated: img/favicon.ico\n' +
+    'INFO  Generated: images/pasted-0.png\n' +
+    'INFO  Generated: fonts/iconfont.8c627f.woff\n' +
+    'INFO  Generated: mobile.992cbe.js\n' +
+    'INFO  Generated: img/default-skin.png\n' +
+    'INFO  Generated: img/tip2.png\n' +
+    'INFO  Generated: img/tip1.png\n' +
+    'INFO  Generated: img/wx_head.jpg\n' +
+    'INFO  Generated: img/klh.jpg\n' +
+    'INFO  Generated: img/zfb_QR.png\n' +
+    'INFO  Generated: img/scrollbar_arrow.png\n' +
+    'INFO  Generated: img/wz-2.png\n' +
+    'INFO  Generated: img/wz-1.png\n' +
+    'INFO  Generated: img/wx_QR.png\n' +
+    'INFO  Generated: img/preloader.gif\n' +
+    'INFO  Generated: fonts/default-skin.b257fa.svg\n' +
+    'INFO  Generated: fonts/tooltip.4004ff.svg\n' +
+    'INFO  Generated: fonts/iconfont.16acc2.ttf\n' +
+    'INFO  Generated: fonts/iconfont.45d7ee.svg\n' +
+    'INFO  Generated: img/auto/pasted-1.png\n' +
+    'INFO  Generated: fonts/iconfont.b322fa.eot\n' +
+    'INFO  Generated: img/auto/pasted-44.png\n' +
+    'INFO  Generated: img/auto/pasted-45.png\n' +
+    'INFO  Generated: img/auto/pasted-21.png\n' +
+    'INFO  Generated: img/auto/pasted-24.png\n' +
+    'INFO  Generated: img/auto/pasted-34.png\n' +
+    'INFO  Generated: archives/2020/02/index.html\n' +
+    'INFO  Generated: archives/2021/01/index.html\n' +
+    'INFO  Generated: tags/js/index.html\n' +
+    'INFO  Generated: img/md3/GIF.gif\n' +
+    'INFO  Generated: archives/2020/04/index.html\n' +
+    'INFO  Generated: archives/2020/07/index.html\n' +
+    'INFO  Generated: archives/2020/08/index.html\n' +
+    'INFO  Generated: tags/vue/index.html\n' +
+    'INFO  Generated: tags/VUE/index.html\n' +
+    'INFO  Generated: tags/随笔/index.html\n' +
+    'INFO  Generated: img/auto/pasted-26.png\n' +
+    'INFO  Generated: archives/2020/index.html\n' +
+    'INFO  Generated: archives/2021/index.html\n' +
+    'INFO  Generated: img/auto/pasted-0.png\n' +
+    'INFO  Generated: img/auto/pasted-10.png\n' +
+    'INFO  Generated: img/auto/pasted-12.png\n' +
+    'INFO  Generated: img/auto/pasted-11.png\n' +
+    'INFO  Generated: img/auto/pasted-14.png\n' +
+    'INFO  Generated: img/auto/pasted-15.png\n' +
+    'INFO  Generated: img/auto/pasted-16.png\n' +
+    'INFO  Generated: img/auto/pasted-2.png\n' +
+    'INFO  Generated: img/auto/pasted-3.png\n' +
+    'INFO  Generated: img/auto/pasted-6.png\n' +
+    'INFO  Generated: img/auto/pasted-7.png\n' +
+    'INFO  Generated: img/auto/pasted-8.png\n' +
+    'INFO  Generated: img/auto/pasted-4.png\n' +
+    'INFO  Generated: img/auto/pasted-18.png\n' +
+    'INFO  Generated: img/auto/pasted-17.png\n' +
+    'INFO  Generated: img/auto/pasted-22.png\n' +
+    'INFO  Generated: img/auto/pasted-19.png\n' +
+    'INFO  Generated: img/auto/pasted-25.png\n' +
+    'INFO  Generated: img/auto/pasted-27.png\n' +
+    'INFO  Generated: img/auto/pasted-28.png\n' +
+    'INFO  Generated: img/auto/pasted-29.png\n' +
+    'INFO  Generated: img/auto/pasted-30.png\n' +
+    'INFO  Generated: img/auto/pasted-31.png\n' +
+    'INFO  Generated: img/auto/pasted-32.png\n' +
+    'INFO  Generated: img/auto/pasted-33.png\n' +
+    'INFO  Generated: img/auto/pasted-20.png\n' +
+    'INFO  Generated: img/auto/pasted-35.png\n' +
+    'INFO  Generated: img/auto/pasted-36.png\n' +
+    'INFO  Generated: img/auto/pasted-37.png\n' +
+    'INFO  Generated: img/auto/pasted-38.png\n' +
+    'INFO  Generated: img/auto/pasted-39.png\n' +
+    'INFO  Generated: img/auto/pasted-40.png\n' +
+    'INFO  Generated: img/auto/pasted-41.png\n' +
+    'INFO  Generated: img/auto/pasted-42.png\n' +
+    'INFO  Generated: img/auto/pasted-43.png\n' +
+    'INFO  Generated: img/auto/pasted-46.png\n' +
+    'INFO  Generated: img/auto/pasted-47.png\n' +
+    'INFO  Generated: img/auto/pasted-23.png\n' +
+    'INFO  Generated: img/auto/pasted-5.png\n' +
+    'INFO  Generated: img/auto/pasted-13.png\n' +
+    'INFO  Generated: img/auto/pasted-9.png\n' +
+    'INFO  Generated: 2021/01/27/jenkins-docker实现自动化部署-1/index.html\n' +
+    'INFO  Generated: 2020/08/13/简单的动态堆叠效果/index.html\n' +
+    'INFO  Generated: 2020/07/03/JS函数柯里化解释/index.html\n' +
+    'INFO  Generated: 2020/04/22/VUE自动引入组件/index.html\n' +
+    'INFO  Generated: 2020/02/20/vue-modules-test/index.html\n' +
+    'INFO  Generated: 2020/04/21/swiper快速入门/index.html\n' +
+    'INFO  Generated: 2020/04/11/canvas快速入门/index.html\n' +
+    'INFO  Generated: 2020/02/16/快速创建此网站/index.html\n' +
+    'INFO  Generated: img/stacked.gif\n' +
+    'INFO  96 files generated in 439 ms\n' +
+    'INFO  Deploying: git\n' +
+    'INFO  Setting up Git deployment...\n' +
+    'Initialized empty Git repository in /root/code/hexo-blog-admin/.deploy_git/.git/\n' +
+    '[master (root-commit) c17789c] First commit\n' +
+    ' 1 file changed, 0 insertions(+), 0 deletions(-)\n' +
+    ' create mode 100644 placeholder\n' +
+    'INFO  Clearing .deploy_git folder...\n' +
+    'INFO  Copying files from public folder...\n',
+  stderr: "(node:136960) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency\n" +
+    '(Use `node --trace-warnings ...` to show where the warning was created)\n' +
+    "(node:136960) Warning: Accessing non-existent property 'column' of module exports inside circular dependency\n" +
+    "(node:136960) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency\n" +
+    "(node:136960) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency\n" +
+    "(node:136960) Warning: Accessing non-existent property 'column' of module exports inside circular dependency\n" +
+    "(node:136960) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency\n" +
+    "(node:136985) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency\n" +
+    '(Use `node --trace-warnings ...` to show where the warning was created)\n' +
+    "(node:136985) Warning: Accessing non-existent property 'column' of module exports inside circular dependency\n" +
+    "(node:136985) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency\n" +
+    "(node:136985) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency\n" +
+    "(node:136985) Warning: Accessing non-existent property 'column' of module exports inside circular dependency\n" +
+    "(node:136985) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency\n" +
+    "FATAL Something's wrong. Maybe you can find the solution here: https://hexo.io/docs/troubleshooting.html\n" +
+    'TypeError [ERR_INVALID_ARG_TYPE]: The "mode" argument must be integer. Received an instance of Object\n' +
+    '    at copyFile (fs.js:1924:10)\n' +
+    '    at tryCatcher (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/util.js:16:23)\n' +
+    '    at ret (eval at makeNodePromisifiedEval (/root/nvm/versions/node/v14.8.0/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promisify.js:184:12), <anonymous>:13:39)\n' +
+    '    at /root/code/hexo-blog-admin/node_modules/hexo-fs/lib/fs.js:144:39\n' +
+    '    at tryCatcher (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/util.js:16:23)\n' +
+    '    at Promise._settlePromiseFromHandler (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:547:31)\n' +
+    '    at Promise._settlePromise (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:604:18)\n' +
+    '    at Promise._settlePromise0 (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:649:10)\n' +
+    '    at Promise._settlePromises (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:729:18)\n' +
+    '    at Promise._fulfill (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:673:18)\n' +
+    '    at Promise._resolveCallback (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:466:57)\n' +
+    '    at Promise._settlePromiseFromHandler (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:559:17)\n' +
+    '    at Promise._settlePromise (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:604:18)\n' +
+    '    at Promise._settlePromise0 (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:649:10)\n' +
+    '    at Promise._settlePromises (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:729:18)\n' +
+    '    at Promise._fulfill (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:673:18)\n' +
+    '    at Promise._resolveCallback (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:466:57)\n' +
+    '    at Promise._settlePromiseFromHandler (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:559:17)\n' +
+    '    at Promise._settlePromise (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:604:18)\n' +
+    '    at Promise._settlePromise0 (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:649:10)\n' +
+    '    at Promise._settlePromises (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:729:18)\n' +
+    '    at Promise._fulfill (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:673:18)\n'
+}
+res null {
+  stdout: 'INFO  Start processing\n' +
+    'INFO  Files loaded in 517 ms\n' +
+    'INFO  0 files generated in 229 ms\n' +
+    'INFO  Deploying: git\n' +
+    'INFO  Clearing .deploy_git folder...\n' +
+    'INFO  Copying files from public folder...\n',
+  stderr: "(node:139036) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency\n" +
+    '(Use `node --trace-warnings ...` to show where the warning was created)\n' +
+    "(node:139036) Warning: Accessing non-existent property 'column' of module exports inside circular dependency\n" +
+    "(node:139036) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency\n" +
+    "(node:139036) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency\n" +
+    "(node:139036) Warning: Accessing non-existent property 'column' of module exports inside circular dependency\n" +
+    "(node:139036) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency\n" +
+    "(node:139049) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency\n" +
+    '(Use `node --trace-warnings ...` to show where the warning was created)\n' +
+    "(node:139049) Warning: Accessing non-existent property 'column' of module exports inside circular dependency\n" +
+    "(node:139049) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency\n" +
+    "(node:139049) Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency\n" +
+    "(node:139049) Warning: Accessing non-existent property 'column' of module exports inside circular dependency\n" +
+    "(node:139049) Warning: Accessing non-existent property 'filename' of module exports inside circular dependency\n" +
+    "FATAL Something's wrong. Maybe you can find the solution here: https://hexo.io/docs/troubleshooting.html\n" +
+    'TypeError [ERR_INVALID_ARG_TYPE]: The "mode" argument must be integer. Received an instance of Object\n' +
+    '    at copyFile (fs.js:1924:10)\n' +
+    '    at tryCatcher (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/util.js:16:23)\n' +
+    '    at ret (eval at makeNodePromisifiedEval (/root/nvm/versions/node/v14.8.0/lib/node_modules/hexo-cli/node_modules/bluebird/js/release/promisify.js:184:12), <anonymous>:13:39)\n' +
+    '    at /root/code/hexo-blog-admin/node_modules/hexo-fs/lib/fs.js:144:39\n' +
+    '    at tryCatcher (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/util.js:16:23)\n' +
+    '    at Promise._settlePromiseFromHandler (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:547:31)\n' +
+    '    at Promise._settlePromise (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:604:18)\n' +
+    '    at Promise._settlePromise0 (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:649:10)\n' +
+    '    at Promise._settlePromises (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:729:18)\n' +
+    '    at Promise._fulfill (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:673:18)\n' +
+    '    at Promise._resolveCallback (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:466:57)\n' +
+    '    at Promise._settlePromiseFromHandler (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:559:17)\n' +
+    '    at Promise._settlePromise (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:604:18)\n' +
+    '    at Promise._settlePromise0 (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:649:10)\n' +
+    '    at Promise._settlePromises (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:729:18)\n' +
+    '    at Promise._fulfill (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:673:18)\n' +
+    '    at Promise._resolveCallback (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:466:57)\n' +
+    '    at Promise._settlePromiseFromHandler (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:559:17)\n' +
+    '    at Promise._settlePromise (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:604:18)\n' +
+    '    at Promise._settlePromise0 (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:649:10)\n' +
+    '    at Promise._settlePromises (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:729:18)\n' +
+    '    at Promise._fulfill (/root/code/hexo-blog-admin/node_modules/bluebird/js/release/promise.js:673:18)\n'
+}
