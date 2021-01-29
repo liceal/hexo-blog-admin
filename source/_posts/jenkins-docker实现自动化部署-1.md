@@ -131,6 +131,7 @@ COPY nginx/default.conf /etc/nginx/conf.d/default.conf
 ## 配置部署Jenkins
 
 > 🆗到这里，你的 `Docker` 已经入门了，接下来安装 `Jenkins`
+> 上面 `Docker` 教程手动敲命令进行部署，接下来使用 `Jenkins` 进行自动化部署。
 
 从云端pull下 `Jenkins` 镜像 `docker pull jenkins/jenkins` ， 查看一下 `docker image ls`
 ![upload successful](/img/auto/pasted-14.png)
